@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Set a page title -->
+  <title>Starter Project</title>
+
+  <!-- Site Styles -->
+  <link rel="stylesheet" href="/css/tachyons.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body>
+
+  <!-- Delete the example and start coding here! -->
+
+
+
+  <main>
+    <div class="row">
+      <div class="column _25">
+
+        <div class="header"> <b> Physical Characteristics </div> </b>
+
+          <p>This docile frog is usually green to blue, or brown in color, but may also be a very rare piebald (white and green mottled). If stressed, it may appear gray. Under ideal conditions, the White's Tree Frog can live up to 20 years, although 15
+            is more common. Females are usually larger than males, reaching up to 5 inches in size. During breeding season, the males will develop a dark "nuptial pad" on the inside of the "thumb." This helps them grip the female during mating.</p>
+
+
+
+          <div class="header"> <b> Native Habitat </div> </b>
+            <p> White tree frogs are native to Australia and southern New Guinea and have been introduced to New Zealand. These tree frogs can live in either seasonally dry or wet habitats. They prefer moist, forested environments but have skin that can adjust
+              to drier situations. </p>
+            <p> White's tree frogs do not typically live in or near water, but instead live in trees. Rain collects on leaves, in cup-shaped plants and in crevices in tree trunks, allowing the frogs access to water. These places are replenished with water
+              from the almost daily rains and the frogs always have a source of water to keep themselves moist. </p>
+            <p>White's tree frogs are not strictly limited to tropical rain forests. In other forests, these frogs avoid desiccation in the dry season by taking refuge in tree hollows or secreting a milky substance called "caerviein." They cover their bodies
+              in a cocoon that prevents them from losing too much moisture. </p>
+            <p>This frog's adaptability allows it to share suburban and agricultural areas with humans. They have been found in bathrooms, water tanks and city reservoirs. During the hot summer months, they can appear on the verandas of homes, or actually
+              enter homes, looking for moisture</p>
+
+
+          </div>
+
+          <div class="column _5">
+            <div class="large"> <b> White Tree Frogs </div> </b>
+              <p>
+                <img src="/images/WhitesTF.png">
+                <center>Class: Amphibia </p>
+              <p>Order: Anura </p>
+              <p>Family: Hylidae Genus </p>
+              <p> Species: Litoria caerulea </p>
+              Fun fact! The species name caerulea means blue in Latin. This is interesting because they are not usually seen as blue, but as bright green. </center>
+              </p>
+              <img src="images/GettyImages-175174320-581251b65f9b58564ccaffe2.jpg">
+
+              </p>
+
+            </div>
+            <div class="column _25">
+              <div class="header"> <b> Eating Habits </div> </b>
+                <p> They eat mainly insects such as moths, locusts and roaches. At the Smithsonian's National Zoo, they eat crickets and cockroaches. One of the most enjoyable qualities of White’s tree frogs is their tremendous appetite. They are rarely fussy
+                  feeders and accept the usual variety of feeder insects, including crickets, earth worms, wax worms, slugs, and roaches </p>
+                <div class="header"> <b>   Reproduction & Development </div> </b>
+                  <p>White's tree frogs reach sexual maturity in their second year. In the summer rainy season, they feast for a few days then start to breed. During the mating season, males grow a black pad on their thumb to help in gripping the females
+                    during mating, which can last for days while the female lays her eggs. The female expels her eggs with such force that they go through the deposited sperm cloud and stop up to 1.5 feet (0.5 meters) away. A clutch can contain from 150
+                    to 300 eggs. Once fertilized, the eggs sink to the bottom. Hatching begins about 28 to 36 hours after laying. Metamorphosis can occur in two to three weeks in good conditions.</p>
+                  <p>Lifespan The average life span is about 16 years, but one is recorded to have lived 21 years in human care. One of the most popular pet amphibians, wild-caught Indonesian White’s tree frogs can be found for sale at most pet stores in
+                    North America. A better option though is to search for captive-bred individuals. Captive-bred White’s tree frogs are most often available in color forms such as blue or the white spotted snowflake morph. Herp shows and online vendors
+                    are good places to find captive-bred White’s tree frogs if none are available locally.</p>
+                </div>
+              </div>
+  </main>
+
+  <!-- Site JavaScript -->
+  <script src="/javascript/toggleClass.js" charset="utf-8"></script>
+  <script src="/javascript/main.js" charset="utf-8"></script>
+</body>
+
+</html>

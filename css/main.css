@@ -1,0 +1,65 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+.column {
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .column {
+    flex: 1;
+  }
+  ._25 {
+    flex: 2.5;
+    font-size: 13px;
+  }
+  ._5 {
+    flex: 7;
+  }
+}
+/* Style */
+.large {
+  color: black;
+  font-size: 43px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+.header {
+  color: black;
+  font-size: 23px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+
+  /* background-color: yellow; */
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  color: grey;
+  background: white;
+  margin-bottom: 70px;
+}
+
+.column {
+  padding: 20px;
+
+  margin: 5px 0;
+  background: white;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
